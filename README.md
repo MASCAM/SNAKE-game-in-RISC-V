@@ -1,5 +1,6 @@
 # SNAKE-game-in-RISC-V
-A classic snake game made using RISC-V and a custom build RARS ready to be used on a ALTERA DE1 Ciclone V.
+A classic snake game made using RISC-V and a custom build RARS ready to be used on a ALTERA DE1 Ciclone V. This project was carried out in the discipline of organization and architecture of computers at the university of brasília in february 2020.
+
 In order to run it, you must download the custom build RARS included in this repository and open the snake.asm file.
 If you want to test it on a FPGA, you must download Quartus Prime and upload the snake.sof file into the DE1 Ciclone V.
 
